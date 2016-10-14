@@ -1,0 +1,81 @@
+html {
+  font-family: 'Raleway';
+}
+
+.black {
+  color: black;
+}
+.bannerimage {
+  width: 100%;
+}
+.top {
+  /*position: absolute;*/
+  /*width: 100%;*/
+  background-image: url(../images/flowers.jpg);
+  background-size: cover;
+}
+
+.tour {
+  background-image: url(../images/ski.jpg);
+  background-size: cover;
+}
+
+.signup {
+  background-image: url(../images/palmtrees.jpg);
+  background-size: cover;
+}
+
+ nav ul {
+   text-align: center;
+ }
+
+ nav a {
+   text-decoration: none;
+   color: white;
+   display: inline-block;
+   padding: 0 .5em;
+ }
+
+.prefooter {
+  background-color: #42CCC5;
+  margin: 0;
+}
+
+.footer {
+  background-color: #92278F;
+}
+
+.center {
+  text-align: center;
+}
+
+a:focus {
+  outline: 3px solid #000;
+}
+
+label {
+  cursor: pointer;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.5em 0.75em;
+  text-decoration: none;
+  color: black;
+  border: 0;
+  font-family: inherit;
+  cursor: pointer;
+  border-radius: 25px;
+  background-color: #92278F;
+}
+
+@media only screen and (min-width: 25em) {
+
+  nav li {
+    display: inline-block;
+  }
+
+   h1 {
+     text-align: center;
+   }
+}
