@@ -5,24 +5,22 @@ html {
 .black {
   color: black;
 }
-.bannerimage {
+
+.banner {
   width: 100%;
 }
+
 .top {
-  /*position: absolute;*/
+  /*position: relative;*/
   /*width: 100%;*/
-  background-image: url(../images/flowers.jpg);
+  background-image: url(../images/banner.jpg);
   background-size: cover;
 }
 
-.tour {
-  background-image: url(../images/ski.jpg);
-  background-size: cover;
-}
-
-.signup {
-  background-image: url(../images/palmtrees.jpg);
-  background-size: cover;
+.project-1, .project-2, .project-3, .project-4,
+.project-5, .project-6, .project-7, .project-8 {
+	width: 80%;
+	padding-top: 1em;
 }
 
  nav ul {
@@ -36,13 +34,8 @@ html {
    padding: 0 .5em;
  }
 
-.prefooter {
-  background-color: #42CCC5;
-  margin: 0;
-}
-
 .footer {
-  background-color: #92278F;
+  background-color: #F0DEF7;
 }
 
 .center {
@@ -78,4 +71,11 @@ label {
    h1 {
      text-align: center;
    }
+}
+
+@media only screen and (min-width: 60em) {
+
+  pad-b {
+    padding-bottom: 11.5rem;
+  }
 }

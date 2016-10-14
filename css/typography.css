@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl, dd, figure,
 blockquote, details, hr,
 fieldset, pre, table {
-  margin: 0 0 1.3rem;
+  margin: 40px 0 1.3rem;
 }
 
 .yotta {
@@ -356,7 +356,7 @@ small, .milli {
 }
 
 .pad-bottom, .pad-b {
-  padding-bottom: 1.4rem;
+  padding-bottom: 7.4rem;
 }
 
 .pad-top-double, .pad-t-2 {
@@ -523,7 +523,7 @@ small, .milli {
 }
 
 .pad-bottom, .pad-b {
-  padding-bottom: 1.5rem;
+  padding-bottom: 11.5rem;
 }
 
 .pad-top-double, .pad-t-2 {
