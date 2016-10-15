@@ -1,9 +1,12 @@
-html {
-  font-family: 'Ramabhadra';
+body {
+  font-family: 'Ramabhadra', sans-serif;
+  font-weight: normal;
 }
 
 .black {
-  color: #CDC9C5;
+  color: white;
+  font-family: 'Cinzel Decorative';
+  font-size: 1.5rem;
 }
 
 .banner {
@@ -30,9 +33,10 @@ html {
 
  nav a {
    text-decoration: none;
-   color: #B08D71;
+   color: #654933;
    display: inline-block;
    padding: 0 .5em;
+   font-family: 'Ramabhadra';
  }
 
 .footer {
