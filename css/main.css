@@ -19,7 +19,8 @@ html {
 
 .project-1, .project-2, .project-3, .project-4,
 .project-5, .project-6, .project-7, .project-8 {
-	width: 80%;
+
+  width: 80%;
 	padding-top: 1em;
 }
 
@@ -35,7 +36,7 @@ html {
  }
 
 .footer {
-  background-color: #F0DEF7;
+  background-color: #F6F1ED;
 }
 
 .center {
@@ -76,6 +77,6 @@ label {
 @media only screen and (min-width: 60em) {
 
   pad-b {
-    padding-bottom: 11.5rem;
+    padding-bottom: 7.5rem;
   }
 }
