@@ -1,9 +1,9 @@
 html {
-  font-family: 'Raleway';
+  font-family: 'Ramabhadra';
 }
 
 .black {
-  color: black;
+  color: #CDC9C5;
 }
 
 .banner {
@@ -30,7 +30,7 @@ html {
 
  nav a {
    text-decoration: none;
-   color: white;
+   color: #B08D71;
    display: inline-block;
    padding: 0 .5em;
  }
