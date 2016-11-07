@@ -1,0 +1,3 @@
+baseurl: "https://oliviaarden.github.io/website"
+permalink: pretty
+exclude: ['README.md']
