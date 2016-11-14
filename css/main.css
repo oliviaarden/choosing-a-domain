@@ -21,6 +21,11 @@ body {
 	padding-top: 1em;
 }
 
+.project {
+  width: 50%;
+  padding-top: 1em;
+}
+
  nav ul {
    text-align: center;
  }
