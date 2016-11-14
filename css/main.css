@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-weight: normal;
 }
 
@@ -30,7 +30,7 @@ body {
    color: white;
    display: inline-block;
    padding: 0 .5em;
-   font-family: 'Roboto';
+   font-family: 'Pontano Sans';
  }
 
 .footer {
