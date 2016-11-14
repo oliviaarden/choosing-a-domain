@@ -3,6 +3,10 @@ body {
   font-weight: normal;
 }
 
+.banner {
+  width: 100%;
+}
+
 .top {
   /*position: relative;*/
   /*width: 100%;*/
