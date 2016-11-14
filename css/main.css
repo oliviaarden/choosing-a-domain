@@ -27,18 +27,19 @@ body {
 
  nav a {
    text-decoration: none;
-   color: #654933;
+   color: white;
    display: inline-block;
    padding: 0 .5em;
    font-family: 'Roboto';
  }
 
 .footer {
-  background-color: #F6F1ED;
+  background-color: #ffb3b3;
 }
 
 .center {
   text-align: center;
+  color: white;
 }
 
 a:focus {
