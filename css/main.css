@@ -3,12 +3,6 @@ body {
   font-weight: normal;
 }
 
-.black {
-  color: white;
-  font-family: 'Cinzel Decorative';
-  font-size: 1.5rem;
-}
-
 .banner {
   width: 100%;
 }
@@ -53,18 +47,6 @@ a:focus {
 
 label {
   cursor: pointer;
-}
-
-.button {
-  display: inline-block;
-  padding: 0.5em 0.75em;
-  text-decoration: none;
-  color: black;
-  border: 0;
-  font-family: inherit;
-  cursor: pointer;
-  border-radius: 25px;
-  background-color: #92278F;
 }
 
 @media only screen and (min-width: 25em) {
