@@ -3,6 +3,10 @@ body {
   font-weight: 1rem;
 }
 
+.masthead {
+  height: 100vh;
+}
+
 .banner {
   width: 100%;
 }
