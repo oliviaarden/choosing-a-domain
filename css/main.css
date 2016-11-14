@@ -3,14 +3,11 @@ body {
   font-weight: normal;
 }
 
-.banner {
-  width: 100%;
-}
-
 .top {
   /*position: relative;*/
   /*width: 100%;*/
   background-image: url(../images/background.jpg);
+  background-size: cover;
 }
 
 .project-1, .project-2, .project-3, .project-4,
