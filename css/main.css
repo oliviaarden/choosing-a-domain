@@ -4,12 +4,12 @@ body {
 }
 
 .banner {
-  width: 100%;
+  width: 80%;
 }
 
 .top {
   /*position: relative;*/
-  /*width: 100%;*/
+  width: 100%;
   background-image: url(../images/background.jpg);
   background-size: cover;
 }
