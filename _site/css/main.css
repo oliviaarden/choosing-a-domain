@@ -44,8 +44,12 @@ body {
    font-family: 'Pontano Sans';
  }
 
-.footer {
+.footer1 {
   background-color: #f2f2f2;
+}
+
+.footer2 {
+  background-color: #e6e6e6;
 }
 
 .center {
