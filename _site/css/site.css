@@ -1459,6 +1459,18 @@ body {
   background-size: cover;
 }
 
+.image {
+  position: relative;
+}
+
+h2 {
+  position: absolute;
+}
+
+h3 {
+  position: absolute;
+}
+
 .project-1, .project-2, .project-3, .project-4,
 .project-5, .project-6, {
 
