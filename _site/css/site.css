@@ -1451,6 +1451,11 @@ body {
   width: 100%;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .top {
   /*position: relative;*/
   width: 100%;
