@@ -1459,17 +1459,10 @@ body {
   background-size: cover;
 }
 
-.project-1, .project-2, .project-3, .project-4,
-.project-5, .project-6, {
+.project-1, .project-2, .project-3, .project-4, {
 
   width: 80%;
 	padding-top: 1em;
-}
-
-.project {
-  max-width: 500px;
-  padding-top: 1em;
-  width: 100%;
 }
 
  nav ul {
